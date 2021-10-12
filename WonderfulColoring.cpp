@@ -14,8 +14,7 @@ int main()
             if(freq[i]==1) k++ ;
             else if(freq[i]>1) a++ ;
         }
-       cout << a + (k/2) << endl ;
-      
+        cout << a + (k/2) << endl ;
     }
 return 0;
 }
